@@ -42,4 +42,4 @@ This prevents internal elements from squishing or altering the parent visual fra
 
 By adhering to Zero-Friction Symbiosis, the script doesn't just run on top of your environment—it feels like it was engineered directly into it, because it is.
 
-**This enables fast RAD development.**
+**This enables fast RAD coding.**
