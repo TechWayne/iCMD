@@ -22,35 +22,44 @@ Why waste time configuring complex server frameworks? iCMD features a built-in b
 matrix that spawns background processes without freezing your interface.
 
 •	🐍 Python Local Web Server: 
+
 Instantly launch an independent, localized HTTP server on Port 8000 to preview, test, and host local JavaScript and HTML web pages flawlessly.
 
 •	🟢 Node.js Express-Style Hosting: 
+
 Spin up a lightweight Node server infrastructure on Port 8080 using on-demand npx routing—zero manual configuration required.
 
-•	⚙️ One-Click CPU JAX Sandbox Engine: 
+•	⚙️ One-Click CPU JAX Sandbox Engine:
+
 Need a clean environment for machine learning or heavy mathematical computations? 
 Deploy a fully isolated Python virtual environment (jaxenv). 
 iCMD automatically handles the backend venv initialization, upgrades pip, 
 installs jax, jaxlib, notebook, and ipykernel, tests your CPU devices, and binds the kernel to your system cleanly.
 
 •	🛑 Safe Subprocess Kill-Switch: 
+
 Start servers and drop connections instantly, freeing up system sockets instantly.
 
 📦 Visual Automation & Dependency Managers
 
 Turn your chaotic folders of script files into an elegant, clickable control panel.
+
 •	Quick-Launch Module Library: Load any folder of standalone scripts (.py, .js, .html, .jax) and watch iCMD transform them into organized, 
 visual Automation Cards in your sidebar. Click a card to instantly drop it into the execution pipeline.
+
 •	Live Interactive History Log: Never type the same complex command twice. Your run history dynamically populates a list of macro buttons. 
 Clicking a past execution card automatically queues it right back up for use.
+
 •	Scrollable Package Deployment Panel: Skip the typing gymnastics. Select from a pre-mapped catalog of vital developer frameworks—ranging from 
 Google APIs, Kaggle, Requests, and Pillow, to Hugging Face AI tools, NumPy, and Pandas—or type in a custom package name for instant automated pip installations.
 
 🧰 Built-in Utility Suite
 
 iCMD packs essential system management tools directly into the top dashboard.
+
 •	Native Archive Matrix: Compress entire working project folders into structured .zip archives or unpack compressed 
 deliverables to target directories instantly using native system extraction pipelines.
+
 •	Responsive Layout Engine: Launch iCMD with simple CLI runtime flags to match your exact setup. Use -one for a tight, 
 space-saving dashboard optimized for smaller screens, or -two for a maximized workspace experience.
 
@@ -66,3 +75,6 @@ canvas, text tag, and active script card instantly at launch or on-the-fly.
 •	Data Scientists & Students: Deploy isolated, clean environments for JAX computations and Jupyter notebooks with zero command-line headaches.
 •	Power Users: Anyone who wants a lightning-fast, portable, and ultra-responsive control center for their machine.
 
+Use it free, forever, all we ask is a small donation to keep us going providing these tools and much, much, more.. 
+We need the support! If you feel this software engineering works for you, please buy us a coffee...
+https://buy.stripe.com/9B67sLgnNeMvf7tcPhao801
